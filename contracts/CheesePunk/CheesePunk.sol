@@ -27,11 +27,11 @@ import { ERC721ACloneable } from "./ERC721ACloneable.sol";
 
 import {
     ReentrancyGuardUpgradeable
-} from "openzeppelin-contracts-upgradeable/security/ReentrancyGuardUpgradeable.sol";
+} from "openzeppelin-contracts-upgradeable/contracts/security/ReentrancyGuardUpgradeable.sol";
 
 import {
     IERC165
-} from "openzeppelin-contracts/utils/introspection/IERC165.sol";
+} from "openzeppelin-contracts/contracts/utils/introspection/IERC165.sol";
 
 /**
  * @title  ERC721SeaDrop
